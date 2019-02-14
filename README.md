@@ -1,0 +1,2 @@
+# ShadowsocksR for Windows
+copy
